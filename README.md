@@ -1,4 +1,4 @@
-Pour importer le projet : -> Télécharger en Zip depuis Github -> Décomprésser le zip. T'obtiens un dossier "template-projet-web-master" -> Dans "Eclipse DSL', import project from "existing projet" -> sélectionner le dossier "dsl_project-master" -> Valider
+Pour importer le projet : -> Télécharger en Zip depuis Github -> Décomprésser le zip. T'obtiens un dossier "template-projet-web-master" -> Dans "Eclipse DSL', import project from "existing projet" -> sélectionner le dossier "template-projet-web-master" -> Valider
 
 Pour éxécuter le projet ( compiler le projet et démarrer le serveur web ) :
 
